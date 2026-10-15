@@ -1,8 +1,8 @@
 class Controlkit < Formula
   desc "Command-line automation for iOS simulator apps"
   homepage "https://github.com/redne-w/ControlKit"
-  url "https://github.com/redne-w/ControlKit/releases/download/v0.1.2/controlkit-v0.1.2-macos-arm64.tar.gz"
-  sha256 "46ddfc81bdf72556e0c4d049d96c120d995dc94382eb33aedd5d6f4bce930339"
+  url "https://github.com/redne-w/ControlKit/releases/download/v0.2.0/controlkit-v0.2.0-macos-arm64.tar.gz"
+  sha256 "8d277bdac11642e1189f42ab3b228b8a667496f02c1bf7135811a73c12eb0c50"
   license "MIT"
 
   depends_on arch: :arm64
